@@ -1,0 +1,9 @@
+{
+  "name": "mediaquerylist.addeventlistener",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": {
+    "./polyfill": "./polyfill.js",
+    "./package.json": "./package.json"
+  }
+}
